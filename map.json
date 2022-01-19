@@ -223,7 +223,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.leibniz-gymnasium-essen.de\/faecher\/sport"
+                 "value":"https:\/\/padlet.com\/gabriele100\/sport"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.leibniz-gymnasium-essen.de\/faecher\/kunst"
+                 "value":"https:\/\/padlet.com\/gabriele100\/kunst"
                 }],
          "type":"tilelayer",
          "visible":true,
